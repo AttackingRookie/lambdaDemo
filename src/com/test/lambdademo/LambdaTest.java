@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
- * @author liruifeng
+ * @author li li
  */
 public class LambdaTest {
 
