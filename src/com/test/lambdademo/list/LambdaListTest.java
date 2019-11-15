@@ -1,14 +1,13 @@
-package com.test.lambdademo;
+package com.test.lambdademo.list;
 
 
 import java.util.*;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 /**
  * @author li li
  */
-public class LambdaTest {
+public class LambdaListTest {
 
     public static void main(String[] args) {
 
